@@ -422,11 +422,11 @@ ul{
 }
 
 .request__inner{
-    background-image: url(images/request-bg.jpg);
+    background-image: url(../images/request-bg.jpg);
     background-image: image-set(
-        url('images/request-bg.avif') type('image/avif'),
-        url('images/request-bg.webp') type('image/webp'),
-        url('images/request-bg.jpg')
+        url('../images/request-bg.avif') type('image/avif'),
+        url('../images/request-bg.webp') type('image/webp'),
+        url('../images/request-bg.jpg')
     );
     background-repeat: no-repeat;
     background-position: center;
